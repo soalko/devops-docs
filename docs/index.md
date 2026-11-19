@@ -12,5 +12,3 @@
 4. GitHub Pages публикует артефакт сборки.
 
 Адрес будущего сайта: `https://soalko.github.io/devops-docs/`.
-
-См. также [несуществующую страницу](missing-page.md).
